@@ -1,7 +1,6 @@
 title: Your awesome title
 description: test description
-theme: minima
-# theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 # plugins:
 #   - jekyll-feed
 
